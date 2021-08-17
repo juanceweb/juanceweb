@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juanivalle, nice to meet you!
+- 👋 Hi, I’m @juanceweb nice to meet you!
 - 👀 I’m interested in programming, games, apps, web development and more!
 - 🌱 I’m currently learning javascript, and already know python, html 5, css, bootstrap, and sass!
 - 💞️ I’m looking to collaborate on any proyect of interest!
